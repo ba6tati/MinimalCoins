@@ -22,25 +22,25 @@ These instructions will help you get a copy of the project up and running on you
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/CoinOptimizer.git
+    git clone https://github.com/ba6tati/MinimalCoins.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd CoinOptimizer
+    cd MinimalCoins
     ```
 
 3. **Compile the Java program:**
 
     ```bash
-    javac CoinOptimizer.java
+    javac MinimalCoins.java
     ```
 
 4. **Run the Java program:**
 
     ```bash
-    java CoinOptimizer
+    java MinimalCoins
     ```
 
 ## Usage
@@ -52,9 +52,11 @@ These instructions will help you get a copy of the project up and running on you
 ## Example
 
 ```plaintext
-Please enter the amount in USD: 1.41
-Amount entered: $1.41
-Quarters: 5
-Dimes: 1
-Nickels: 1
-Pennies: 1
+Enter the amount in USD: 
+5.98
+The 5.98 USD can be represented like that:
+Pennies (100): 5
+Half dollars (50): 1
+Quarters (25): 1
+Dimes (10): 2
+The amount left is 0.03 USD.
