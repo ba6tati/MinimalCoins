@@ -28,19 +28,19 @@ These instructions will help you get a copy of the project up and running on you
 2. **Navigate to the project directory:**
 
     ```bash
-    cd MinimalCoins
+    cd MinimalCoins/src
     ```
 
 3. **Compile the Java program:**
 
     ```bash
-    javac MinimalCoins.java
+    javac Main.java
     ```
 
 4. **Run the Java program:**
 
     ```bash
-    java MinimalCoins
+    java Main
     ```
 
 ## Usage
